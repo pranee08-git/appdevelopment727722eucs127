@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "nishok",
+      "email": "727722eucs121@skcet.ac.in",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "praneeth",
+      "email": "727722eucs127@skcet.ac.in",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "Coder",
+      "email": "727722eucs127@skcet.ac.in",
+      "password": "345",
+      "id": 4
+    },
+    {
+      "username": "pran",
+      "email": "pran@gmail.com",
+      "password": "1",
+      "id": 5
+    },
+    {
+      "username": "pk",
+      "email": "pk@gmail.com",
+      "password": "345",
+      "id": 6
+    },
+    {
+      "username": "pranee",
+      "email": "PK@gmail.com",
+      "password": "pkpk",
+      "id": 7
+    },
+    {
+      "username": "pranee",
+      "email": "22cse127@skcet.ac.in",
+      "password": "pkpk",
+      "id": 8
+    },
+    {
+      "username": "pk",
+      "email": "pk@gmail.com",
+      "password": "pk",
+      "id": 9
+    },
+    {
+      "username": "legend",
+      "email": "727722eucs127@skcet.ac.in",
+      "password": "pkpk",
+      "id": 10
+    },
+    {
+      "username": "kk",
+      "email": "kk@gmail.com",
+      "password": "kk",
+      "id": 11
+    }
+  ],
+  "bookings": [
+    {
+      "hallId": "pheonix-hall",
+      "date": "2024-07-09",
+      "type": "Anniversary",
+      "time": "11:00 AM - 6:00 PM",
+      "id": 1
+    },
+    {
+      "hallId": "jennis-hall",
+      "date": "2004-09-09",
+      "type": "Birthday Party",
+      "time": "10:00 AM - 4:00 PM",
+      "id": 2
+    },
+    {
+      "hallId": "pheonix-hall",
+      "date": "2024-07-28",
+      "type": "Anniversary",
+      "time": "11:00 AM - 6:00 PM",
+      "id": 3
+    },
+    {
+      "hallId": "jennis-hall",
+      "date": "2024-07-24",
+      "type": "Birthday Party",
+      "time": "4:00 PM - 10:00 PM",
+      "id": 4
+    },
+    {
+      "hallId": "grant-hall",
+      "date": "2024-07-31",
+      "type": "Wedding",
+      "time": "9:00 AM - 5:00 PM",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
